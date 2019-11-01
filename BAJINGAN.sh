@@ -12,21 +12,21 @@ blue='\033[34;1m'
 green='\033[32;1m'  
 purple='\033[35;1m'
 cyan='\033[36;1m'
-red='\033[31;1m'
+red='\033[31;1m'    
 white='\033[37;1m'                                           
 yellow='\033[33;1m'
-sleep 1
+sleep 
 echo $red
 cat asw.txt
 echo ""
 echo "\033[34;1m[$]\033[36;1m============================\033[34;1m[$]"
-echo "\033[32;1mAuthor : Mr.B4J1N64N"
-echo "\033[37;1mFeat: Mr.IM81"
+echo "\033[32;1mAuthor : Adi Cahyo"
+echo "\033[37;1mFeat: Mr.A.C"
 echo "\033[35;1mversion Tools: 6"
-echo "\033[35;1mTeam : DARKNESS CYBER TEAM"
-echo "\033[33;1mKontak Me :  083108271123"
-echo "\033[31;1mPlease For Subcribe Youtube:"
-echo "\033[92mDarkness Cyber Team" 
+echo "\033[35;1mTeam : GARUDA CYBER ARMY"
+echo "\033[33;1mKontak Me :  087720393195"
+echo "\033[31;1mPlease For not update
+echo "\033[
 echo "\033[36;1mIndonesia Security Lite"
 echo "\033[34;1m[$]\033[36;1m============================\033[34;1m[$]"
 echo ""
